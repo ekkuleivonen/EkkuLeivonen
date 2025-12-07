@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @EkkuLeivonen
-- 📫 Reach me via my linkedin handle= in/ekkuleivonen
+Hello World
 
 <!---
 EkkuLeivonen/EkkuLeivonen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
